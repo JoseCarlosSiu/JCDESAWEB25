@@ -71,7 +71,7 @@
 
 Boceto inicial de la interfaz:
 
-![Boceto de TechPlus](./images/boceto-techplus.png)
+![Boceto de PcComppnentes](./images/images.jpg)
 
 ---
 
