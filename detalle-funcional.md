@@ -6,22 +6,21 @@
 
 **Catálogo de productos** con las siguientes características:
 - *Filtrado avanzado* por categorías (componentes, ordenadores, móviles, accesorios)
-- **Búsqueda en tiempo real** con sugerencias
+- **Búsqueda en tiempo real** con sugerencias(depende como vaya con javascript)
 - Vista en cuadrícula y lista
-- Paginación de resultados (20 productos por página)
+- Paginación de resultados (5 productos por página depende como lo vea)
 
 **Sistema de carrito de compras**:
-- Almacenamiento en `localStorage` del navegador
+- Almacenamiento para que este cuando te salga y tal
 - Actualización en tiempo real del total
 - Cálculo automático de gastos de envío
 - *Persistencia* entre sesiones
 
 ### **Módulo de Servicio Técnico**
 
-**Formulario inteligente de solicitud** que incluye:
+**Formulario para las solicitudes** que incluye:
 - **Validación en tiempo real** de campos obligatorios
 - Selección de tipo de servicio (reparación, mantenimiento, mejora)
-- Subida de imágenes del equipo (máximo 3 archivos, 5MB cada uno)
 - *Estimación automática* de costo y tiempo aproximado
 
 ### **Flujo de Usuario Principal**
@@ -39,7 +38,7 @@
 3. **Solicitud de servicio técnico**
    - Completa formulario paso a paso
    - Sube evidencias del equipo
-   - Recibe confirmación por email
+   - Recibe confirmación por email (hay una pagina para eso)
 
 ## **Tipos de Usuarios y Permisos**
 
@@ -53,13 +52,13 @@
 ## **Especificaciones Técnicas Avanzadas**
 
 ### **Frontend - Estructura de Componentes**
-
+<!--por ejemplo aqui puse uno por ejemplo de mi pagina web creada -->
 ```html
 <!-- Ejemplo de tarjeta de producto -->
 <div class="product-card">
-    <img src="images/products/rtx-4080.jpg" alt="RTX 4080">
-    <h3>GeForce RTX 4080</h3>
-    <p class="price">$899.00</p>
+    <img src="images/products/rtx-5090.jpg" alt="RTX 5090">
+    <h3>GeForce RTX 5090</h3>
+    <p class="price">$1599.00</p>
     <button class="add-to-cart" data-product-id="123">
         Añadir al Carrito
     </button>
