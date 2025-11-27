@@ -67,8 +67,7 @@
 
 ## Imágenes del proyecto
 <!--aun no tengo imagenes-->
-[![Imagen primero que visto]([https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png]
-[Ir a GitHub](https://github.com)
+[![Imagen primero que visto](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com)
 
 Boceto inicial de la interfaz:
 
