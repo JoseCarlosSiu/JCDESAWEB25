@@ -62,12 +62,12 @@
 
 ## Enlaces de interés
 
-- [Documentación oficial de MDN Web Docs](https://developer.mozilla.org/)
+- [Documentación oficial de MDN Web Docs](https://www.pccomponentes.com)
 - [Figma - Herramienta de diseño UI/UX](https://www.figma.com/)
 
 ## Imágenes del proyecto
-
-[![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com)
+<!--aun no tengo imagenes-->
+[![Imagen primero que visto]([https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN0WgVwW-_RD-ph8bDtglOb_Mb17Tq_GTKfw&s)
 
 Boceto inicial de la interfaz:
 
