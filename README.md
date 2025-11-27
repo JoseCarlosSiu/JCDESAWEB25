@@ -38,7 +38,7 @@
 
 ### Backend
 
-*(Por el momento es un prototipo estático, pero para el dia del proyecto final:)*
+*(Por el momento es un prototipo estático para el dia del proyecto final:)*
 
 - Base de datos MySQL 
 - Sistema de autenticación de usuarios (mirare una forma para hacerlo sin complicarse)
