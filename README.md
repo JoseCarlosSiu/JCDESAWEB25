@@ -71,7 +71,7 @@
 
 Boceto inicial de la interfaz:
 
-![Boceto de PcComppnentes](./images/images.jpg)
+![Boceto de PcComppnentes](./images/logo proyecto.png)
 
 ---
 
