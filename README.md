@@ -1,21 +1,21 @@
 # JCDESAWEB25
 
-## Descripción del proyecto
+## Descripción de mi proyecto final
 
-**MasterPC** es un prototipo funcional de una tienda online especializada en la venta de componentes informáticos, ordenadores, móviles y accesorios, que además integra un **servicio técnico especializado** para reparaciones, mantenimiento y mejoras de equipos.
+**MasterPC** es un prototipo funcional de una tienda online especializada en la venta de componentes informáticos, ordenadores, móviles y accesorios, que además integra un **servicio técnico especializado** para reparaciones, mantenimiento y mejoras de equipos.(por ahora esa es mi idea)
 
-> "MasterPC no es solo una tienda, es tu soporte tecnológico integral."
+> "MasterPC tampoco es solo una tienda, sino tambien tendremos un apartado para soporte tecnológico integral."
 
-## Público objetivo
+## Objetivos de mi proyecto para la gente
 
-- Usuarios particulares que buscan comprar productos tecnológicos.
+- Usuarios o clientes particulares que buscan comprar productos tecnológicos de cualquier manera.
 - Personas que necesitan reparar o mejorar sus dispositivos.
 - Empresas pequeñas que requieren soporte técnico puntual.
 
 ## Funcionalidades principales
 
 - Catálogo de productos organizado por categorías.
-- Carrito de la compra interactivo.
+- Carrito de la compra interactivo(intentare hacerlo con javascript).
 - Formulario de solicitud de servicio técnico con validación.
 - Diseño responsive y accesible.
 
@@ -32,16 +32,16 @@
 
 ### Frontend
 
-- **HTML5** para la estructura semántica.
-- **CSS3** con Flexbox, Grid y Variables CSS.
-- **JavaScript** para la lógica del cliente un poco.
+- **HTML** para la estructura semántica.
+- **CSS** con Flexbox para alinear elementos en linesa, Grid para crear estructura de tabla y Variables para reutilizar valores facilmente.
+- **JavaScript** para la lógica del cliente un poco(ya que supongo mas adelante lo aprendere para utilizar para esa forma sino buscare internet).
 
 ### Backend
 
 *(Por el momento es un prototipo estático, pero para el dia del proyecto final:)*
 
-- Base de datos MySQL o MongoDB
-- Sistema de autenticación de usuarios
+- Base de datos MySQL 
+- Sistema de autenticación de usuarios (mirare una forma para hacerlo sin complicarse)
 
 ## Plan de desarrollo
 
